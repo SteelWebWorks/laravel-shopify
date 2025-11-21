@@ -6,5 +6,6 @@ Homestead.json
 .env.testing
 /.idea
 .idea/*
+.idea
 /.phpcomplete_extended
 tests/_output/*
