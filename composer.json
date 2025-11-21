@@ -19,16 +19,16 @@
     },
     "autoload": {
         "psr-4": {
-            "SteelWebWorks\\": "src/"
+            "Oseintow\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "SteelWebWorks\\Shopify\\ShopifyServiceProvider"
+                "Oseintow\\Shopify\\ShopifyServiceProvider"
             ],
             "aliases": {
-                "Shopify": "SteelWebWorks\\Shopify\\Facades\\Shopify"
+                "Shopify": "Oseintow\\Shopify\\Facades\\Shopify"
             }
         }
     },
